@@ -3,7 +3,9 @@ Boilerplate for fresh Vue/React projects
 
 ## Getting started
 
-Open terminal and paste
+First, open terminal and clone repo
 ```
-git clone 
+git clone https://github.com/sjoback/sass-boilerplate.git
 ```
+
+Then, install Next/Vue
